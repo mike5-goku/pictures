@@ -1,5 +1,5 @@
 import { useState } from "react";
-import './SeachBar.css'
+import './SearchBar.css'
 
 
 const SeachBar = ({ onSubmit}) => {
@@ -27,7 +27,7 @@ return (
 )
 }
 
-export default SeachBar
+export default SearchBar
 
 
 

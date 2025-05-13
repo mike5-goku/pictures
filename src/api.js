@@ -12,3 +12,5 @@ return response.data.results
 }
 
 export default searchImages
+
+
